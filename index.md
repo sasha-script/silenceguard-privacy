@@ -1,8 +1,8 @@
-SilenceGuard Privacy Policy
-Effective date: October 8, 2026
-Developer: BraveHare
-Application: SilenceGuard
-Android package: com.dndprotection.app
+- SilenceGuard Privacy Policy
+- Effective date: October 8, 2026
+- Developer: BraveHare
+- Application: SilenceGuard
+- Android package: com.dndprotection.app
 
 1. Introduction
 This Privacy Policy explains how SilenceGuard (“SilenceGuard,” “the app,” “we,” “us,” or “our”) accesses, processes, stores, and shares information when you use the app.
@@ -12,7 +12,7 @@ Most information required for call protection is processed and stored locally on
 
 2. Information processed by SilenceGuard
 
-2.1 Guard Rules and app settings
+- 2.1 Guard Rules and app settings
 SilenceGuard stores the rules and settings that you create, including:
 - Rule names;
 - whether a rule is enabled or disabled;
@@ -29,7 +29,7 @@ SilenceGuard stores the rules and settings that you create, including:
 - other settings needed to operate the app.
 This information is stored locally on your device and is not uploaded to a BraveHare server.
 
-2.2 Incoming-call information
+- 2.2 Incoming-call information
 When you choose SilenceGuard as Android’s call-screening application, Android provides the app with information needed to evaluate an incoming call. This may include:
 - the incoming telephone number;
 - whether the caller ID is hidden, restricted, unknown, or unavailable;
@@ -42,7 +42,7 @@ This processing occurs automatically on your device according to the rules you c
 SilenceGuard does not record the audio or content of calls. It does not access SMS or message contents. It does not request access to your complete Android call history.
 Android may still include rejected calls in the system call history. That call history is controlled by Android and your phone application, not by SilenceGuard.
 
-2.3 Blocked-call records and notifications
+- 2.3 Blocked-call records and notifications
 If blocked-call notifications are enabled, SilenceGuard locally records information about calls rejected while Guard protection is active. These records may contain:
 - the incoming telephone number;
 - a normalized version of the number;
@@ -54,7 +54,7 @@ If blocked-call notifications are enabled, SilenceGuard locally records informat
 The app uses this information to display a deferred notification after the applicable protection session ends. A notification may show only a masked version of the caller’s number.
 SilenceGuard limits this local history to a maximum of 500 blocked-call event records. Older handled records are removed when this limit is exceeded. You can remove locally stored records by clearing SilenceGuard’s app data or uninstalling the app.
 
-2.4 Contacts
+- 2.4 Contacts
 If you grant Contacts permission, SilenceGuard checks whether an incoming telephone number matches an entry in your Android contacts. This is required for features such as:
 - “Not in Contacts” rules;
 - correct handling of saved callers under other filters; and
@@ -62,11 +62,11 @@ If you grant Contacts permission, SilenceGuard checks whether an incoming teleph
 SilenceGuard performs a local lookup for the incoming number. It does not copy your entire contact list into its own database and does not upload your contacts to BraveHare.
 If Contacts permission is denied or withdrawn, rules requiring contact identification may be unable to operate correctly. SilenceGuard is designed to avoid treating every caller as unknown when contact access is unavailable.
 
-2.5 Priority List
+- 2.5 Priority List
 Premium users may save complete telephone numbers in the Priority List. These numbers are stored locally and are used to identify callers who may bypass SilenceGuard protection according to the selected priority-call alert setting.
 Priority List entries are not uploaded to BraveHare. If Premium access is lost, saved entries may remain locally stored in a paused or inaccessible state so they can be restored if Premium access is regained.
 
-2.6 Precise and background location
+- 2.6 Precise and background location
 Location Rules require precise location access. If you create or enable a Location Rule, SilenceGuard may process:
 - your device’s current precise location;
 - the latitude and longitude selected for a rule;
@@ -80,11 +80,11 @@ SilenceGuard uses location only for location-related functionality that you enab
 Location functionality may rely on Android and Google Play services. These services may process information necessary to provide location and geofencing features under Google’s own privacy terms.
 If location permission is withdrawn or device Location is disabled, SilenceGuard cannot reliably determine whether a Location Rule should be active. The app may therefore suspend that rule’s location-based protection until location access becomes available again.
 
-2.7 Google Maps
+- 2.7 Google Maps
 SilenceGuard uses Google Maps on the Location Rule screen to display a map and help you select an area.
 Google Maps may receive technical map requests, IP address information, device information, selected map regions, and other information necessary to provide the map. Google processes this information under the Google Privacy Policy (https://policies.google.com/privacy)
 
-2.8 Do-Not-Disturb and Android system settings
+- 2.8 Do-Not-Disturb and Android system settings
 If you enable features that use Android’s Do-Not-Disturb mode, SilenceGuard may read or modify the notification-policy state required to apply your rules.
 The app may also use:
 - exact alarms to start or stop scheduled protection on time;
@@ -95,7 +95,7 @@ The app may also use:
 - vibration access for priority-call and interface feedback.
 This system-state information is used locally for app functionality and is not uploaded to BraveHare.
 
-2.9 Google Play Billing
+- 2.9 Google Play Billing
 SilenceGuard uses Google Play Billing for the one-time Premium purchase.
 Google processes the purchase, payment method, billing account, transaction, tax, refund, and payment-security information. BraveHare and SilenceGuard do not receive or store your complete payment-card details.
 
@@ -108,7 +108,7 @@ The app receives limited purchase information from Google Play, such as:
 SilenceGuard uses this information to unlock Premium features and restore Premium access for the applicable Google Play account.
 Google Play purchases are governed by Google’s terms and privacy practices.
 
-2.10 Advertising and consent information
+- 2.10 Advertising and consent information
 The Basic version of SilenceGuard may display a Google App Open advertisement when the applicable launch and cooldown conditions are met. Premium users do not receive SilenceGuard App Open advertisements while Premium ownership is confirmed.
 
 SilenceGuard uses:
