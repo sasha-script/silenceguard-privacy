@@ -12,7 +12,7 @@ Most information required for call protection is processed and stored locally on
 
 2. Information processed by SilenceGuard
 
-2.1 Guard Rules and app settings
+#2.1 Guard Rules and app settings
 SilenceGuard stores the rules and settings that you create, including:
 - Rule names;
 - whether a rule is enabled or disabled;
