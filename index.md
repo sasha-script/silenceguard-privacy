@@ -4,7 +4,7 @@
 - Application: SilenceGuard
 - Android package: com.dndprotection.app
 
-1. Introduction
+1 Introduction
 This Privacy Policy explains how SilenceGuard (“SilenceGuard,” “the app,” “we,” “us,” or “our”) accesses, processes, stores, and shares information when you use the app.
 SilenceGuard helps users silence or block incoming calls through instant, scheduled, and location-based Guard Rules. It also provides a Priority List, Do-Not-Disturb integration, blocked-call notifications, Google Play purchases, and advertising for eligible Basic users.
 SilenceGuard does not require you to create a BraveHare account. We do not operate a server that receives your Guard Rules, contact list, Priority List, precise location, or incoming telephone numbers.
