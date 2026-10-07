@@ -10,7 +10,7 @@ SilenceGuard helps users silence or block incoming calls through instant, schedu
 SilenceGuard does not require you to create a BraveHare account. We do not operate a server that receives your Guard Rules, contact list, Priority List, precise location, or incoming telephone numbers.
 Most information required for call protection is processed and stored locally on your Android device. Some third-party Google services process limited information as described below.
 
-2. Information processed by SilenceGuard
+II. Information processed by SilenceGuard
 
   2.1 Guard Rules and app settings
   SilenceGuard stores the rules and settings that you create, including:
@@ -132,7 +132,7 @@ Most information required for call protection is processed and stored locally on
   - How Google uses information from apps and sites (https://policies.google.com/technologies/partner-sites)
   - Google My Ad Center (https://myadcenter.google.com/home)
 
-3. Information we do not intentionally collect
+III. Information we do not intentionally collect
 SilenceGuard does not require a BraveHare account and does not intentionally collect:
 - your name or postal address;
 - email address through the app;
@@ -147,7 +147,7 @@ SilenceGuard does not require a BraveHare account and does not intentionally col
 
 Do-Not-Disturb may affect sounds produced by other applications, but SilenceGuard does not read the contents of their calls, messages, or notifications.
 
-4. How information is used
+IV. How information is used
 Information described in this policy is used to:
 - save and apply Guard Rules;
 - determine whether an incoming call should be allowed, silenced, or rejected;
@@ -164,7 +164,7 @@ Information described in this policy is used to:
 - prevent abuse, invalid advertising activity, and purchase fraud; and
 - comply with legal and Google Play requirements.
 
-5. Automated call-screening decisions
+V. Automated call-screening decisions
 SilenceGuard automatically evaluates incoming calls against the rules and Priority List configured on your device.
 This processing may result in a call being:
 - allowed normally;
@@ -173,7 +173,7 @@ This processing may result in a call being:
 - rejected by Android.
 These decisions are made locally according to settings chosen by you. You can disable a rule, change its settings, pause a Priority List entry, revoke permissions, or stop using SilenceGuard at any time.
 
-6. Sharing and disclosure
+VI. Sharing and disclosure
 BraveHare does not sell your contacts, telephone numbers, precise location, Guard Rules, or locally stored blocked-call records.
 
 Information may be processed by third parties only where necessary to provide app functionality, including:
@@ -187,7 +187,7 @@ These providers process information under their own terms and privacy policies.
 We may also disclose information if required by applicable law, court order, or a valid governmental request. Because BraveHare does not receive the app’s locally stored rules, contacts, telephone numbers, precise locations, or blocked-call records, we ordinarily cannot disclose information that remains only on your device.
 If the application or its business is transferred to another operator, this policy will be updated and users will be informed where required by law.
 
-7. Local storage, backup, and retention
+VII. Local storage, backup, and retention
 Guard Rules, Priority List numbers, preferences, selected locations, entitlement cache, advertising timing state, and blocked-call event records are stored in the app’s private local storage.
 They generally remain until:
 - you edit or delete them;
@@ -198,11 +198,11 @@ They generally remain until:
 Depending on your Android backup settings, Android or Google may include some app data in a device backup and later restore it. Such backups are controlled by your device and Google account settings.
 Information processed by Google is retained according to Google’s applicable retention policies and your Google account, advertising, and purchase settings.
 
-8. Security
+VIII. Security
 SilenceGuard relies on Android’s application sandbox and private app storage to protect locally stored information. Data transmitted to Google services is protected using the security mechanisms supplied by those services, including encrypted network connections where applicable.
 No method of electronic storage or transmission is completely secure. We cannot guarantee absolute security, but we limit access and processing to what is reasonably required for the app’s functions.
 
-9. Permissions and your choices
+IX. Permissions and your choices
 You control whether SilenceGuard receives optional Android permissions and system roles.
 You may:
 - revoke Contacts access;
@@ -222,7 +222,7 @@ Revoking access may disable the features that depend on it.
 
 Permission controls are available in Android settings. Advertising choices may also be available through SilenceGuard → Settings → Ad privacy and your Google account or Android advertising settings.
 
-10. Your privacy rights
+X. Your privacy rights
 Depending on where you live, you may have rights concerning personal data, including the right to:
 - receive information about its processing;
 - request access or correction;
@@ -236,7 +236,7 @@ Most SilenceGuard information is stored only on your device. BraveHare cannot ac
 For information processed by Google, you may need to exercise your rights through Google’s privacy and account controls.
 You may contact us regarding any privacy question using the details in Section 14.
 
-11. Legal bases for processing
+XI. Legal bases for processing
 Where laws such as the European Union or United Kingdom General Data Protection Regulation apply, information may be processed on one or more of these bases:
 - Your consent, including Android permissions and advertising consent;
 - Performance of a service requested by you, such as applying Guard Rules or verifying a Premium purchase;
@@ -244,21 +244,21 @@ Where laws such as the European Union or United Kingdom General Data Protection 
 - Compliance with legal obligations.
 You may withdraw consent by changing the relevant Android, app, Google account, or advertising privacy setting. Withdrawal does not affect processing that was lawful before consent was withdrawn.
 
-12. International processing
+XII. International processing
 Google and its service providers may process information in countries other than the country where you live. Their privacy policies describe the safeguards used for international processing and transfers.
 Information stored exclusively inside SilenceGuard’s local app storage remains on your device, subject to any Android or Google device-backup settings you enable.
 
-13. Children’s privacy
+XIII. Children’s privacy
 SilenceGuard is not directed to children under 13 or under the minimum age required by local law to consent to digital services.
 We do not knowingly collect personal information from children through a BraveHare account or server. If you believe that a child has provided information to us in a manner covered by this policy, contact us so the matter can be reviewed.
 
-14. Contact
+XIV. Contact
 For questions, requests, or complaints concerning this Privacy Policy or SilenceGuard’s privacy practices, contact:
 Developer: BraveHare
 Email: fisunov11@gmail.com
 You may also use the developer contact information displayed on SilenceGuard’s Google Play listing.
 
-15. Changes to this Privacy Policy
+XV. Changes to this Privacy Policy
 We may update this Privacy Policy when SilenceGuard’s functionality, third-party services, legal requirements, or data practices change.
 The updated policy will display a revised effective date. Where required, material changes will be communicated through the app, the Google Play listing, or another appropriate method.
 
