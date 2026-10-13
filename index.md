@@ -255,7 +255,7 @@ We do not knowingly collect personal information from children through a BraveHa
 XIV. Contact
 For questions, requests, or complaints concerning this Privacy Policy or SilenceGuard’s privacy practices, contact:
 Developer: BraveHare
-Email: fisunov11@gmail.com
+Email: silenceguard.support@gmail.com
 You may also use the developer contact information displayed on SilenceGuard’s Google Play listing.
 
 XV. Changes to this Privacy Policy
